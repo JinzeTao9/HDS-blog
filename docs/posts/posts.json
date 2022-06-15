@@ -1,19 +1,36 @@
 [
   {
+    "path": "posts/2022-06-15-i-love-blogging/",
+    "title": "I love blogging",
+    "description": "Just how much I enjoy writing about health data science topics.",
+    "author": [
+      {
+        "name": "Jinze Tao",
+        "url": {}
+      }
+    ],
+    "date": "2022-06-15",
+    "categories": [],
+    "contents": "\r\nThese are some thoughts how useful blogging is for self-reflection on health data science as well as self-promotion\r\n\r\n\r\nplot(iris)\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-06-15-i-love-blogging/i-love-blogging_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2022-06-15T18:35:31+10:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to My Health data Science Blog",
     "description": "Welcome to our new blog, My Health data Science Blog. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Jinze Tao",
+        "url": {}
       }
     ],
     "date": "2022-06-15",
     "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
+    "contents": "\r\nI was born at an early age\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-06-15T18:08:32+10:00",
+    "last_modified": "2022-06-15T18:37:40+10:00",
     "input_file": {}
   }
 ]
